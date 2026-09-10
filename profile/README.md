@@ -16,19 +16,6 @@ Every search, message, and purchase is the shadow of a real life. Yours. Today a
 | [**wetheusers**](https://github.com/wetheusers-ai/wetheusers) | The drafting table. The Declaration, the essays, and the founding brief, all working drafts. Pull requests and discussions are welcome on any line. |
 | [**website**](https://github.com/wetheusers-ai/website) | The site and its backend, in the open. The sign-up form counts only verified emails, names are never public, and every confirmation email carries a one-click delete. |
 
-## Start with your own agent
-
-```
-mkdir -p ~/.claude/skills/we-the-users
-curl -fsSL https://wetheusers.ai/skill/SKILL.md -o ~/.claude/skills/we-the-users/SKILL.md
-```
-
-Codex and agents that share its folder use `~/.agents/skills/we-the-users/` instead. Read the file before you install it; it is short enough. Details, the always-on version for `AGENTS.md`, and the hash to check against are at [wetheusers.ai/skill](https://wetheusers.ai/skill).
-
-## Take up the pen
-
-Signing is the smallest edit. If you have more than a name to add, open a [discussion](https://github.com/wetheusers-ai/wetheusers/discussions) or a pull request on the [documents](https://github.com/wetheusers-ai/wetheusers). None of this is final. The final version is the one written together.
-
 ---
 
 <p align="center"><sub>An open project, not affiliated with any company. Documents CC BY-SA 4.0, code Apache-2.0, the skill CC BY 4.0. Privacy: <a href="https://wetheusers.ai/privacy/">wetheusers.ai/privacy</a></sub></p>
