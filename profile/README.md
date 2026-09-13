@@ -16,6 +16,8 @@ Every search, message, and purchase is the shadow of a real life. Yours. Today a
 | [**wetheusers**](https://github.com/wetheusers-ai/wetheusers) | The drafting table. The Declaration, the essays, and the founding brief, all working drafts. Pull requests and discussions are welcome on any line. |
 | [**website**](https://github.com/wetheusers-ai/website) | The site and its backend, in the open. The sign-up form counts only verified emails, names are never public, and every confirmation email carries a one-click delete. |
 
+Anyone may fork the code, reuse the documents under the licences stated, or open a pull request and a discussion on any line of any document; that is what "open" means here. Who decides what is taken in, and how, is held open on purpose, to be worked out together as the constitution is written.
+
 ---
 
 <p align="center"><sub>An open project, not affiliated with any company. Documents CC BY-SA 4.0, code Apache-2.0, the skill CC BY 4.0. Privacy: <a href="https://wetheusers.ai/privacy/">wetheusers.ai/privacy</a></sub></p>
